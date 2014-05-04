@@ -1,0 +1,19 @@
+{
+  "name": "extract_exif",
+  "version": "0.0.0",
+  "description": "A script to download file and get exif info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aladine/extract_exif"
+  },
+  "author": "aladine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aladine/extract_exif/issues"
+  },
+  "homepage": "https://github.com/aladine/extract_exif"
+}
